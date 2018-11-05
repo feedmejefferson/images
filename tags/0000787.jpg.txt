@@ -1,0 +1,1 @@
+dish,exotic,food,health,healthy,kitchen,meat,recipe,restaurant,snack

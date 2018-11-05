@@ -1,0 +1,1 @@
+burger,cheeseburger,chips,fast food,food,french fries,hamburger,unhealthy

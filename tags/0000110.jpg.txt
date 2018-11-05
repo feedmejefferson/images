@@ -1,0 +1,1 @@
+drink,food,glass,milkshake,shake,smoothie,strawberries

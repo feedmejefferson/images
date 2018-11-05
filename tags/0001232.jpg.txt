@@ -1,0 +1,1 @@
+breakfast,cholesterol,egg,food,fried,fried eggs,meal,morning,sunny side up,toast,yolk

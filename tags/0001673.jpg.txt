@@ -1,0 +1,1 @@
+black background,blur,chips,focus,food,pile,snack,stack

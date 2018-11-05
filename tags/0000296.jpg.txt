@@ -1,0 +1,1 @@
+fig,food,fresh,fruit,plate,ripe,seeds,slice,wood

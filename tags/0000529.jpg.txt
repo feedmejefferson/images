@@ -1,0 +1,1 @@
+bowl,food,green,rice,sushi
