@@ -1,1 +1,1 @@
-beans, beverage, black coffee, breakfast, caffeine, cappuccino, close-up, coffee, coffee beans, coffee cup, coffee drink, coffee mug, cup, cup of coffee, delicious, drink, espresso, food, glass, hot, indoors, milk, morning, mug, pitcher, porcelain, pour, smoke, table, tableware
+beans,beverage,blackcoffee,breakfast,caffeine,cappuccino,close-up,coffee,coffeebeans,coffeecup,coffeedrink,coffeemug,cup,cupofcoffee,delicious,drink,espresso,food,glass,hot,indoors,milk,morning,mug,pitcher,porcelain,pour,smoke,table,tableware
