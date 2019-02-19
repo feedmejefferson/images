@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://feedme-stage.firebaseapp.com", "https://feedmejefferson.com", "https://www.feedmejefferson.com", "http://feedmejefferson.com", "http://www.feedmejefferson.com"],
+      "responseHeader": ["Content-Type"],
+      "method": ["GET"],
+      "maxAgeSeconds": 10
+    }
+]
