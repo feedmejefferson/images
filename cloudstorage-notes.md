@@ -45,20 +45,11 @@ from the root of the images directory:
     gsutil -m rsync -J -a public-read attributions/ gs://feedme-stage.appspot.com/attributions/
     gsutil rsync -a public-read meta/ gs://feedme-stage.appspot.com/meta/
     
-> note, need to fix this -- it wasn't recursive, so only included root folder and included .DS_Store junk file
-
-## make the files public
-
-There appears to be a way to use `-a` canned acl options on rsync uploads, but it didn't work the first time I tried, so for now this two step process works.
-
-    gsutil -m acl ch -r -u all:R gs://feedme-stage.appspot.com/images/*
-    gsutil -m acl ch -r -u all:R gs://feedme-stage.appspot.com/attributions/
-    gsutil acl ch -r -u all:R gs://feedme-stage.appspot.com/meta/
-
 ## sync to prod
 
     gsutil -m rsync -a public-read gs://feedme-stage.appspot.com/images/ gs://feedme-jefferson.appspot.com/images/
     gsutil -m rsync -a public-read gs://feedme-stage.appspot.com/attributions/ gs://feedme-jefferson.appspot.com/attributions/
+    gsutil -m rsync -a public-read gs://feedme-stage.appspot.com/meta/ gs://feedme-jefferson.appspot.com/meta/
     
     
 ## set cors on bucket
