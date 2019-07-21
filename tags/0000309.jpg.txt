@@ -1,1 +1,0 @@
-concrete,food,fruit,pineapple,tropical fruit,wall
