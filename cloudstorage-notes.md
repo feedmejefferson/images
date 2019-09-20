@@ -26,6 +26,7 @@ One time processes (need to do for each environment)
 
 * create the account
 * turn on cloud storage
+* set up the security rules to allow public read only access
 * create/get name of bucket
 * set the cors headers
 * setup cloud function log archiver

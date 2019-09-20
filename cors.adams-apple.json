@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://adams-apple.firebaseapp.com", "http://localhost:8080"],
+      "responseHeader": ["Content-Type"],
+      "method": ["GET"],
+      "maxAgeSeconds": 10
+    }
+]
